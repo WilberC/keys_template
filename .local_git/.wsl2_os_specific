@@ -1,0 +1,3 @@
+[gpg "ssh"]
+  # replace MyUser for your machine user
+  program = "/mnt/c/Users/MyUser/AppData/Local/1Password/app/8/op-ssh-sign-wsl"
